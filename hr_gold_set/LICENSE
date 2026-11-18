@@ -1,0 +1,13 @@
+This folder (the gold question set and the scripts that build and score it) is derived from
+The Bank HR Corpus © 2026 by Rouzbeh Afrasiabi, https://github.com/rouzbeh-afrasiabi/the_bank_hr_corpus,
+which is licensed under the Creative Commons Attribution-ShareAlike 4.0 International licence
+(CC BY-SA 4.0).
+
+The gold set quotes the corpus, so everything in this folder is shared under the same licence,
+CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+
+This applies to this folder only; it is not covered by the licence of the repository that
+contains it.
+
+Changes from the source: questions, reference answers and labels were written for evaluation;
+evidence passages are quoted word for word from the corpus documents and tables.
